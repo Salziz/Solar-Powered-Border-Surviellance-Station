@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+surveillance.db*
+
+static/captures/*
+!static/captures/.gitkeep
+static/recordings/*
+!static/recordings/.gitkeep
+static/models/*
+!static/models/.gitkeep
